@@ -87,13 +87,13 @@ You may ask, why all this trouble for Unity Hub? Why would we need to install al
 
 Open up the **Unity Hub** and on the **Projects** tab click **New** and on the next screen, choose **3D** and name your project whatever you would like. Choose a file path to store the project. A good file directory structure is to have all Unity projects in folders underneath one folder. For example, I usually work off an external drive, `J:\`, on Windows. So I have a folder `J:\Unity\` that then has a folder underneath for each individual project. In this case, I've chosen `J:\Unity\VandyHacks Unity Hackpack`.
 
-![](README_Images\NewProjectView.JPG)
+![](README_Images/NewProjectView.JPG)
 
 ## 3.1 Adding a Simple Object
 
 For demo purposes (and to show how easy it is to add rudimentary geometric objects), go to the **GameObject** menu on the top and mouse over **3D Object** and choose **Sphere**. This will create a sphere at coordinate (0, 0, 0) in your example scene in the center panel. Unity show automatically select the object and its properties will show up in the **Inspector** tab to the right.
 
-![](README_Images\CreateSphere.JPG)
+![](README_Images/CreateSphere.JPG)
 
 ## 3.2 The Basic Windows
 ### 3.2.1 The Scene View
