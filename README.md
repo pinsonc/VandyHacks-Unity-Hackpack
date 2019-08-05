@@ -14,6 +14,7 @@
 4. 3DGameKit and 3D Platformer Example  
     4.1 Setting Up 3D GameKit  
     4.2 Loading the Example Game  
+    4.3 Where to Go From Here
 
 # 1. Introduction
 **Unity** is a game engine. This specific game engine is a high-level development environment that allows for the creation of games and graphical applications with a minimum amount of code or backend knowledge. Unity allows you to focus on the important parts of your experience - game design, interaction logic, and visual design - while handling all of the graphical backend stuff for you. That means that instead of spending two days writing C++/OpenGL code to get a textured cube on the screen, you can simply drag and drop a created one from a folder menu.
