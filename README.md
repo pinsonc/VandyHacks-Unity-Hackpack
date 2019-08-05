@@ -174,9 +174,9 @@ This will take a while to download. Feel free to read ahead to get familiar with
 
 At the bottom in the **Project** pane, click on the 3DGameKit folder under **Assets**. Then click on the Start scene under the **Scenes** folder. Right click the file and click **Open**, it will ask you to decide whether you want to save changes to the sphere if you haven't. Then, it will load an example 3D platformer called The Explorer. If you go to the **Game**. Pane and press the Play button above, the game will load and you will be able to play. You can simply quit the game in the game's interface to stop.
 
-![](README_Images/menu.jpg)
+![](README_Images/Menu.JPG)
 The main menu
-![](README_Images/ingame.jpg)
+![](README_Images/ingame.JPG)
 A screenshot from in-game
 
 *Note that the performance of demos depend entirely on your computer's specifications.*
